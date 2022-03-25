@@ -19,3 +19,11 @@ yarn create next-app --example with-tailwindcss with-tailwindcss-app
 ```
 
 Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+
+## References
+
+Code : (github_project_tutorial)[https://github.com/adrianhajdin/project_graphql_blog/blob/main/services/index.js]
+
+Video: (video_tutorial)[https://www.youtube.com/watch?v=HYv55DhgTuA&list=LL&index=2&ab_channel=JavaScriptMastery]
+
+Api nextjs doc (doc_nextjs_api)[https://nextjs.org/docs/api-routes/introduction]
